@@ -39,9 +39,9 @@ def get_filters():
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
    while true:
     day = input("\nwhich day are you looking for? sunday,monday,tuesday,wednesday,thursday,friday,saturday or type in 'all' if you don't have a choice?\n").lower().strip()
-    if day in('sunday','monday','tuesday','wednesday','thursday','friday','saturday','all'):
+   if day in('sunday','monday','tuesday','wednesday','thursday','friday','saturday','all'):
         break
-       else:
+   else:
             print("it doesn't match!,try again.")
   print(day.title() + ' is chosen!\n')
             
@@ -135,8 +135,8 @@ def trip_duration_stats(df):
     start_time = time.time()
 
     # TO DO: display total travel time
-    Total_travel_time = sum(df['trip duration'])
-    print('the total travel time is:',Total_travel_time/86400,"days")
+    Total_travel_tim = sum(df['trip duration'])
+    print('the total travel time is:',Total_travel_tim/86400,"days")
 
 
     # TO DO: display mean travel time
