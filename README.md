@@ -16,3 +16,8 @@ new_york_city.csv
 ### Credits
 https://github.com/wesbos/beginner-javascript
 
+### Day created
+on sunday
+
+
+
