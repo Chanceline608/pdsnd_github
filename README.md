@@ -19,5 +19,8 @@ https://github.com/wesbos/beginner-javascript
 ### Day created
 on sunday
 
+### Guidance from
+am getting guidance from udacity
+
 
 
