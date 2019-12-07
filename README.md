@@ -26,8 +26,12 @@ am getting guidance from udacity
 i hope you had fun looking at my first repository!!!!
 =======
 i hope you had fun looking at my first repository!!
+<<<<<<< HEAD
 Thank you very much.
 >>>>>>> documentation
+=======
+THIS is work done in the REFACTORING BRANCH.
+>>>>>>> refactoring
 
 
 
