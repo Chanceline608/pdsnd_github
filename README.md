@@ -23,6 +23,7 @@ on sunday
 am getting guidance from udacity
 
 i hope you had fun looking at my first repository!!
+Thank you very much.
 
 
 
